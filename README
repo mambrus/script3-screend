@@ -1,0 +1,6 @@
+screend
+=======
+
+screend scripts are used to run commands remotly on a daemonized screen.
+This is useful for for example xsessions where one needs a owner pty still alive
+but still one don't want the pty visable
